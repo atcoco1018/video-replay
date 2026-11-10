@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+/* The app's tokens the player's classes use (text-text, shadow-light, text-smallButton, ...). */
+@theme {
+  --color-text: #202020;
+  --color-bg: #fbfbfb;
+  --color-grey-04: #606060;
+  --color-divider: #f0f0f0;
+  --shadow-light: 0px 1px 2px #f0f0f0;
+  --text-smallButton: 0.875rem;
+  --text-smallButton--line-height: 0.875rem;
+  --text-smallButton--font-weight: 500;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    sans-serif;
+}

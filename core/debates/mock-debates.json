@@ -1,0 +1,74 @@
+[
+  {
+    "id": "d1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
+    "title": "Should cities ban cars from their centres?",
+    "turnSeconds": 30,
+    "turns": 4,
+    "first_participant_slot": 1,
+    "participants": [
+      {
+        "slot": 1,
+        "name": "Ada",
+        "position": "For",
+        "color": "#2f6fed",
+        "voice": "Samantha"
+      },
+      {
+        "slot": 2,
+        "name": "Ben",
+        "position": "Against",
+        "color": "#d9480f",
+        "voice": "Daniel"
+      }
+    ],
+    "hasTurnAllowance": true
+  },
+  {
+    "id": "e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2",
+    "title": "Is remote work better for teams?",
+    "turnSeconds": 30,
+    "turns": 3,
+    "first_participant_slot": 2,
+    "participants": [
+      {
+        "slot": 1,
+        "name": "Cleo",
+        "position": "Against",
+        "color": "#2b8a3e",
+        "voice": "Karen"
+      },
+      {
+        "slot": 2,
+        "name": "Dev",
+        "position": "For",
+        "color": "#862e9c",
+        "voice": "Fred"
+      }
+    ],
+    "hasTurnAllowance": false
+  },
+  {
+    "id": "f0e1d2c3b4a5968778695a4b3c2d1e0f",
+    "title": "Should homework be optional?",
+    "turnSeconds": 30,
+    "turns": 2,
+    "first_participant_slot": 1,
+    "participants": [
+      {
+        "slot": 1,
+        "name": "Eli",
+        "position": "For",
+        "color": "#c2255c",
+        "voice": "Daniel"
+      },
+      {
+        "slot": 2,
+        "name": "Fay",
+        "position": "Against",
+        "color": "#1098ad",
+        "voice": "Samantha"
+      }
+    ],
+    "hasTurnAllowance": true
+  }
+]
